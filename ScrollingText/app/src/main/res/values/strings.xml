@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">History of Google</string>
+    <string name="article_subtitle">History</string>
+    <string name="article_text">
+    Google, founded in 1998 by Larry Page and Sergey Brin, revolutionized the way we access and interact with information online. Starting as a simple search engine, it leveraged innovative algorithms to deliver more relevant results than its competitors. Over the years, Google dramatically expanded its services, introducing products like Gmail, Google Maps, and Android, evolving into a global technology powerhouse.
+\n\n
+    In its early years, the duo developed Backrub, a search engine that analyzed the web’s link structure, and officially founded Google in September 1998, receiving initial funding of $100,000 from Andy Bechtolsheim. Rapid growth followed, with $25 million in venture capital raised in 1999, enabling key hires and search innovations like PageRank. In 2004, Google launched Gmail with 1 GB of storage, setting new standards for email services.
+\n\n
+    The company went public later that year, raising $1.67 billion through a Dutch auction IPO. Strategic acquisitions like YouTube in 2006 and Android in 2005 solidified its dominance in video and mobile markets, while products like Google Maps and Chrome integrated the company further into users\' daily lives.
+\n\n
+    In 2015, Google restructured under the parent company Alphabet Inc., allowing for clearer operational focus and emphasizing artificial intelligence and cloud services. Recent developments include innovations like Google Home and Google Lens, alongside challenges related to regulatory scrutiny over data privacy and monopolistic practices. Committed to sustainability, Google aims to operate entirely on renewable energy.
+\n\n
+    Today, it is not just a search engine but a multifaceted technology giant that influences various aspects of daily life, reflecting broader trends in technology and consumer behavior, and shaping the future of the internet and digital services.
+\n\n
+        <b>Visit Google: </b> <u><i>www.google.com</i></u>
+    </string>
+</resources>
